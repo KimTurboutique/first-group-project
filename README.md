@@ -1,4 +1,3 @@
 # first-group-project
 
-What i like about JavaScript is object oriented programming.
-updates were made to the project
+    I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
