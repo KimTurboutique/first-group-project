@@ -4,7 +4,7 @@ body{
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color: darkblue;
+    background-color: #686c82;
     text-align: center;
     /*flex-direction: column;*/    
 }
@@ -12,7 +12,7 @@ body{
 .container{
     width: 800px;
     max-width: 80%;
-    background-color: aqua;
+    background-color: #c7cad6;
     border-radius: 1px;
     padding: 10px;
     box-shadow: 0 0 10px 3px;
@@ -24,4 +24,5 @@ body{
 .btn{
     background-color: gray;
     border-radius: 5px;
+    background-color: #86d184; 
 }
